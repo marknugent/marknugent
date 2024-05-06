@@ -1,21 +1,15 @@
 ### Hello! 
 
-I'm an experienced product designer with front-end development experience. 
-
-I've designed user interfaces for products including SiFive Core Designer, a SaaS tool for semiconductor design. 
+I'm an experienced product designer with front-end development experience. I've recently had roles designing SaaS software for complex problem domains, for example, SiFive Core Designer, a web-based tool for configuring CPU cores. 
 
 ## Design Software
 
-Experienced with: 
+I have significant experience with: 
 
 - Figma
 - Sketch
 - Adobe Creative Suite (Photoshop, Illustrator, Animate)
 - Keynote
-
-Light to intermediate experience: 
-
-- Webflow
   
 ## Code
 
@@ -28,6 +22,7 @@ Light to intermediate experience:
 - JavaScript
 - React/JSX
 - Python & Django
+- Wordpress templates
 
 ## Portfolio & Contact
 
