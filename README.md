@@ -1,8 +1,8 @@
-### Hello! 
+## Hello! 
 
 I'm an experienced product designer with front-end development experience. I've recently had roles designing SaaS software for complex problem domains, for example, SiFive Core Designer, a web-based tool for configuring CPU cores. 
 
-## Design Software
+### Design Software
 
 I have significant experience with: 
 
@@ -11,7 +11,7 @@ I have significant experience with:
 - Adobe Creative Suite (Photoshop, Illustrator, Animate)
 - Keynote
   
-## Code
+### Code
 
 Experienced with: 
 
