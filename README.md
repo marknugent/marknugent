@@ -24,7 +24,7 @@ Light to intermediate experience:
 - Python & Django
 - Wordpress templates
 
-## Portfolio & Contact
+### Portfolio & Contact
 
 You can learn more about me, and view my portfolio, at [nuge.co](http://nuge.co) (username: **user** / password: **highfidelity**). 
 <!--
