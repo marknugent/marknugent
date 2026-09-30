@@ -7,9 +7,10 @@ I'm an experienced product designer with front-end development experience. I've 
 I have significant experience with: 
 
 - Figma
-- Sketch
-- Adobe Creative Suite (Photoshop, Illustrator, Animate)
+- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 - Keynote
+- Sketch
+- Claude Design
   
 ### Code
 
@@ -26,7 +27,7 @@ Light to intermediate experience:
 
 ### Portfolio & Contact
 
-You can learn more about me, and view my portfolio, at [nuge.co](http://nuge.co) (username: **user** / password: **highfidelity**). 
+You can learn more about me, and view my portfolio, at [nuge.co](http://nuge.co).
 <!--
 **marknugent/marknugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
