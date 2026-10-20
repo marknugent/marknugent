@@ -18,7 +18,7 @@ Experienced with:
 
 - HTML, CSS, Sass
 
-Light to intermediate experience: 
+Intermediate or light experience: 
 
 - JavaScript
 - React/JSX
